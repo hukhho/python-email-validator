@@ -38,7 +38,7 @@ python check_exist_gmail.py
 
 Step 4: Check the output
 
-The script will prompt you to select the input Excel file. Once selected, it will process the file and add the email status to a new column. The output file will be saved in the same directory as the input file with "_output" appended to the filename.
+The script will prompt you to select the input Excel file. Once selected, it will process the file and add the email status to a new column. The output file will be saved in the same directory as the input file with filename "output.xlsx".
 
 
 ## License
