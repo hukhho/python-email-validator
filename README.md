@@ -14,7 +14,8 @@ pip install openpyxl validate_email_address
 ```
 
 ## Usage
-To use the script, follow these steps
+To use the script, follow these steps:
+
 Step 1: Clone the repository
 Clone the repository to your local machine using the following command:
 
