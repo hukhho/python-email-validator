@@ -62,5 +62,5 @@ The output file will be saved in the same directory as the input file with "_out
 ## Limitations
 The script only checks the validity of Gmail addresses. If you need to check the validity of addresses from other domains, you will need to modify the script accordingly.
 The script uses a ThreadPoolExecutor to speed up the processing of the input data. However, this may not be suitable for very large files or systems with limited resources. If you experience performance issues, you may need to adjust the number of worker threads or use a different approach to parallel processing.
-##Contact
+## Contact
 If you have any questions or feedback, please feel free to contact the author at hukhho@gmail.com.
