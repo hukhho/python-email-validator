@@ -20,8 +20,10 @@ Clone the repository to your local machine using the following command:
 ```python
 pip install openpyxl validate_email_address
 git clone https://github.com/<your-username>/<repository-name>.git
+```
 Step 2: Navigate to the directory
 Navigate to the directory containing the script and the input Excel file:
+
 ```python
 cd <repository-name>
 ```
