@@ -1,6 +1,6 @@
 # Check Existence of Gmail Addresses in an Excel File
-## Overview
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+## Overview
 This Python script uses the openpyxl and validate_email_address libraries to check the validity of email addresses in an Excel file and add the email status to the same file.
 ## Getting Started
 To get started with the script, you'll need to install the following dependencies:
